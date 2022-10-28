@@ -12,7 +12,6 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
 **You can add the steps to follow to clone your project,
 
 Step 1:if you dont have git installed on your machine you cad download it from [here](https://git-scm.com/downloads).
